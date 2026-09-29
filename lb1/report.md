@@ -2,9 +2,11 @@
 
 ## Аналіз якості програмного продукту. Виявлення та документування аномалій
 
-**Виконав:** Maksym Dziuman (`Nibelought`)  
-**Дата виконання:** 29.09.2026  
-**Репозиторій:** https://github.com/Nibelought/software-quality  
+**Виконав:** Maksym Dziuman (`Nibelought`)
+
+**Дата виконання:** 29.09.2026
+
+**Репозиторій:** https://github.com/Nibelought/software-quality
 **Гілка лабораторної:** `lb1`
 
 ## Тестовий об’єкт і середовище
